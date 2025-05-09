@@ -1,0 +1,228 @@
+﻿SupplierID,Supplier_Name,Stock_ItemID,StockItem_Name,Brand,Lead_Time_Days,Unit_PackageID,Package_Type_Name,Number_Of_Orders,Total_Ordered_Outers,Avg_UnitPrice,Total_Cost,Avg_Quantity_On_Hand
+7,"Litware, Inc.",204,Tape dispenser (Red),NULL,20,7,Each,933,1204825,170,204820250,24
+4,"Fabrikam, Inc.",98,"""The Gu"" red shirt XML tag t-shirt (Black) 4XL",NULL,7,7,Carton,954,1575453,96,151243488,25
+4,"Fabrikam, Inc.",86,"""The Gu"" red shirt XML tag t-shirt (White) 5XL",NULL,7,7,Carton,958,1512235,96,145174560,3
+4,"Fabrikam, Inc.",78,"""The Gu"" red shirt XML tag t-shirt (White) XS",NULL,7,7,Carton,960,1562779,84,131273436,16
+4,"Fabrikam, Inc.",77,"""The Gu"" red shirt XML tag t-shirt (White) XXS",NULL,7,7,Carton,965,1450197,84,121816548,27
+4,"Fabrikam, Inc.",95,"""The Gu"" red shirt XML tag t-shirt (Black) XL",NULL,7,7,Carton,963,772432,90,69518880,48
+4,"Fabrikam, Inc.",80,"""The Gu"" red shirt XML tag t-shirt (White) M",NULL,7,7,Carton,933,721657,84,60619188,20
+7,"Litware, Inc.",193,Black and orange glass with care despatch tape 48mmx75m,NULL,14,7,Each,897,1047341,38.4,40217894.4,50
+7,"Litware, Inc.",184,Shipping carton (Brown) 305x305x305mm,NULL,14,7,Each,567,457265,47.5,21720087.5,38
+7,"Litware, Inc.",215,Air cushion machine (Blue),NULL,20,7,Each,2,18,1140,20520,12530
+12,The Phone Company,8,USB food flash drive - dim sum 10 drive variety pack,NULL,14,9,Packet,1,204,88.5,18054,412277
+12,The Phone Company,15,USB food flash drive - dessert 10 drive variety pack,NULL,14,9,Packet,1,196,88.5,17346,398290
+10,Northwind Electric Cars,75,Ride on big wheel monster truck (Black) 1/12 scale,Northwind,14,7,Each,1,43,205,8815,80823
+7,"Litware, Inc.",170,20 mm Anti static bubble wrap (Blue) 50m,NULL,14,7,Each,1,16,550,8800,274265
+10,Northwind Electric Cars,72,Ride on toy sedan car (Pink) 1/12 scale,Northwind,14,7,Each,1,59,145,8555,116147
+10,Northwind Electric Cars,73,Ride on vintage American toy coupe (Red) 1/12 scale,Northwind,14,7,Each,1,55,155,8525,106477
+10,Northwind Electric Cars,71,Ride on toy sedan car (Yellow) 1/12 scale,Northwind,14,7,Each,1,57,145,8265,112020
+7,"Litware, Inc.",167,10 mm Anti static bubble wrap (Blue) 50m,NULL,14,7,Each,1,18,450,8100,308519
+10,Northwind Electric Cars,69,Ride on toy sedan car (Blue) 1/12 scale,Northwind,14,7,Each,1,50,145,7250,96791
+10,Northwind Electric Cars,67,Ride on toy sedan car (Black) 1/12 scale,Northwind,14,7,Each,1,48,145,6960,93588
+10,Northwind Electric Cars,68,Ride on toy sedan car (Red) 1/12 scale,Northwind,14,7,Each,1,47,145,6815,90953
+10,Northwind Electric Cars,74,Ride on vintage American toy coupe (Black) 1/12 scale,Northwind,14,7,Each,1,42,155,6510,80341
+10,Northwind Electric Cars,70,Ride on toy sedan car (Green) 1/12 scale,Northwind,14,7,Each,1,43,145,6235,83287
+1,A Datum Corporation,227,White chocolate moon rocks 250g,NULL,3,1,Carton,1,45,114,5130,245352
+1,A Datum Corporation,222,Chocolate beetles 250g,NULL,3,1,Carton,2,41,114,4674,69336
+4,"Fabrikam, Inc.",144,Halloween zombie mask (Light Brown) L,NULL,12,7,Carton,1,18,228,4104,379166
+4,"Fabrikam, Inc.",143,Halloween zombie mask (Light Brown) M,NULL,12,7,Carton,1,18,228,4104,378187
+7,"Litware, Inc.",172,32 mm Anti static bubble wrap (Blue) 20m,NULL,14,7,Each,1,17,230,3910,291347
+7,"Litware, Inc.",173,32 mm Anti static bubble wrap (Blue) 50m,NULL,14,7,Each,1,8,470,3760,103958
+4,"Fabrikam, Inc.",142,Halloween zombie mask (Light Brown) S,NULL,12,7,Carton,1,16,228,3648,323812
+7,"Litware, Inc.",164,32 mm Double sided bubble wrap 50m,NULL,14,7,Each,1,6,590,3540,68906
+1,A Datum Corporation,223,Chocolate echidnas 250g,NULL,3,1,Carton,2,31,114,3534,74256
+1,A Datum Corporation,226,White chocolate snow balls 250g,NULL,3,1,Carton,1,30,114,3420,155856
+7,"Litware, Inc.",161,20 mm Double sided bubble wrap 50m,NULL,14,7,Each,2,20,160,3200,188962
+7,"Litware, Inc.",155,Large sized bubblewrap roll 50m,NULL,14,7,Each,1,24,130,3120,440171
+4,"Fabrikam, Inc.",147,Halloween skull mask (Gray) M,NULL,12,7,Carton,1,17,180,3060,354456
+4,"Fabrikam, Inc.",145,Halloween zombie mask (Light Brown) XL,NULL,12,7,Carton,1,13,228,2964,248519
+4,"Fabrikam, Inc.",146,Halloween skull mask (Gray) S,NULL,12,7,Carton,1,16,180,2880,327221
+1,A Datum Corporation,225,Chocolate sharks 250g,NULL,3,1,Carton,1,23,114,2622,119560
+7,"Litware, Inc.",176,Bubblewrap dispenser (Red) 1.5m,NULL,14,7,Each,1,23,110,2530,41251
+4,"Fabrikam, Inc.",148,Halloween skull mask (Gray) L,NULL,12,7,Carton,1,14,180,2520,274041
+7,"Litware, Inc.",218,Void fill 300 L bag (White) 300L,NULL,14,7,Each,2,13,180,2340,107072
+4,"Fabrikam, Inc.",97,"""The Gu"" red shirt XML tag t-shirt (Black) 3XL",NULL,7,7,Carton,1,24,96,2304,525771
+7,"Litware, Inc.",166,10 mm Anti static bubble wrap (Blue) 20m,NULL,14,7,Each,1,10,230,2300,149668
+7,"Litware, Inc.",160,20 mm Double sided bubble wrap 20m,NULL,14,7,Each,1,15,150,2250,250461
+7,"Litware, Inc.",158,10 mm Double sided bubble wrap 50m,NULL,14,7,Each,1,4,560,2240,26193
+4,"Fabrikam, Inc.",149,Halloween skull mask (Gray) XL,NULL,12,7,Carton,1,12,180,2160,229551
+7,"Litware, Inc.",219,Void fill 400 L bag (White) 400L,NULL,14,7,Each,1,8,260,2080,108124
+1,A Datum Corporation,220,Novelty chilli chocolates 250g,NULL,3,1,Carton,1,18,114,2052,90360
+7,"Litware, Inc.",165,10 mm Anti static bubble wrap (Blue) 10m,NULL,14,7,Each,1,12,170,2040,187313
+1,A Datum Corporation,221,Novelty chilli chocolates 500g,NULL,3,1,Carton,1,19,105,1995,48228
+7,"Litware, Inc.",199,Black and yellow heavy despatch tape  48mmx75m,NULL,14,7,Each,9,55,36,1980,5447
+7,"Litware, Inc.",205,Tape dispenser (Blue),NULL,20,7,Each,1,11,170,1870,169152
+4,"Fabrikam, Inc.",96,"""The Gu"" red shirt XML tag t-shirt (Black) XXL",NULL,7,7,Carton,1,19,90,1710,402445
+12,The Phone Company,3,Office cube periscope (Black),NULL,14,7,Carton,1,15,112.5,1687.5,253190
+4,"Fabrikam, Inc.",83,"""The Gu"" red shirt XML tag t-shirt (White) XXL",NULL,7,7,Carton,2,18,90,1620,224185
+1,A Datum Corporation,224,Chocolate frogs 250g,NULL,3,1,Carton,1,14,114,1596,67488
+10,Northwind Electric Cars,64,RC vintage American toy coupe with remote control (Red) 1/50 scale,Northwind,14,7,Each,1,106,15,1590,213248
+7,"Litware, Inc.",162,32 mm Double sided bubble wrap 10m,NULL,14,7,Each,1,16,99,1584,269785
+7,"Litware, Inc.",203,Tape dispenser (Black),NULL,20,7,Each,2,9,170,1530,4253
+7,"Litware, Inc.",217,Void fill 200 L bag (White) 200L,NULL,14,7,Each,1,9,160,1440,128916
+7,"Litware, Inc.",171,32 mm Anti static bubble wrap (Blue) 10m,NULL,14,7,Each,1,9,160,1440,128136
+10,Northwind Electric Cars,66,RC big wheel monster truck with remote control (Black) 1/50 scale,Northwind,14,7,Each,1,88,15.5,1364,172525
+4,"Fabrikam, Inc.",100,"""The Gu"" red shirt XML tag t-shirt (Black) 6XL",NULL,7,7,Carton,1,14,96,1344,277863
+4,"Fabrikam, Inc.",99,"""The Gu"" red shirt XML tag t-shirt (Black) 5XL",NULL,7,7,Carton,1,14,96,1344,282132
+12,The Phone Company,10,USB food flash drive - chocolate bar,NULL,14,7,Each,1,111,12,1332,222572
+7,"Litware, Inc.",169,20 mm Anti static bubble wrap (Blue) 20m,NULL,14,7,Each,1,6,210,1260,68707
+12,The Phone Company,4,USB food flash drive - sushi roll,NULL,14,7,Each,1,104,12,1248,208109
+10,Northwind Electric Cars,65,RC vintage American toy coupe with remote control (Black) 1/50 scale,Northwind,14,7,Each,1,83,15,1245,164183
+12,The Phone Company,11,USB food flash drive - cookie,NULL,14,7,Each,1,102,12,1224,203148
+12,The Phone Company,7,USB food flash drive - pizza slice,NULL,14,7,Each,1,102,12,1224,205295
+12,The Phone Company,12,USB food flash drive - donut,NULL,14,7,Each,1,101,12,1212,200406
+12,The Phone Company,5,USB food flash drive - hamburger,NULL,14,7,Each,1,99,12,1188,199064
+12,The Phone Company,13,USB food flash drive - shrimp cocktail,NULL,14,7,Each,1,99,12,1188,197453
+10,Northwind Electric Cars,59,RC toy sedan car with remote control (Red) 1/50 scale,Northwind,14,7,Each,1,95,12.5,1187.5,190946
+10,Northwind Electric Cars,63,RC toy sedan car with remote control (Pink) 1/50 scale,Northwind,14,7,Each,1,95,12.5,1187.5,190886
+4,"Fabrikam, Inc.",93,"""The Gu"" red shirt XML tag t-shirt (Black) M",NULL,7,7,Carton,1,14,84,1176,277914
+12,The Phone Company,6,USB food flash drive - hot dog,NULL,14,7,Each,1,98,12,1176,196995
+12,The Phone Company,14,USB food flash drive - fortune cookie,NULL,14,7,Each,1,97,12,1164,192358
+12,The Phone Company,9,USB food flash drive - banana,NULL,14,7,Each,1,96,12,1152,192749
+10,Northwind Electric Cars,62,RC toy sedan car with remote control (Yellow) 1/50 scale,Northwind,14,7,Each,1,92,12.5,1150,180856
+7,"Litware, Inc.",163,32 mm Double sided bubble wrap 20m,NULL,14,7,Each,1,8,140,1120,108019
+7,"Litware, Inc.",175,Bubblewrap dispenser (Blue) 1.5m,NULL,14,7,Each,1,10,110,1100,15106
+10,Northwind Electric Cars,58,RC toy sedan car with remote control (Black) 1/50 scale,Northwind,14,7,Each,1,87,12.5,1087.5,174043
+10,Northwind Electric Cars,61,RC toy sedan car with remote control (Green) 1/50 scale,Northwind,14,7,Each,1,83,12.5,1037.5,163823
+10,Northwind Electric Cars,60,RC toy sedan car with remote control (Blue) 1/50 scale,Northwind,14,7,Each,1,83,12.5,1037.5,165484
+7,"Litware, Inc.",168,20 mm Anti static bubble wrap (Blue) 10m,NULL,14,7,Each,1,8,120,960,112946
+4,"Fabrikam, Inc.",88,"""The Gu"" red shirt XML tag t-shirt (White) 7XL",NULL,7,7,Carton,1,9,102,918,148350
+7,"Litware, Inc.",192,Black and orange fragile despatch tape 48mmx100m,NULL,14,7,Each,1,11,82.8,910.8,618169
+12,The Phone Company,1,USB missile launcher (Green),NULL,14,7,Each,1,88,9.5,836,175609
+7,"Litware, Inc.",156,10 mm Double sided bubble wrap 10m,NULL,14,7,Each,1,11,75,825,172675
+7,"Litware, Inc.",154,Medium sized bubblewrap roll 20m,NULL,14,7,Each,1,8,100,800,105320
+12,The Phone Company,2,USB rocket launcher (Gray),NULL,14,7,Each,1,83,9.5,788.5,165538
+7,"Litware, Inc.",191,Black and orange fragile despatch tape 48mmx75m,NULL,14,7,Each,1,12,64.8,777.6,686530
+7,"Litware, Inc.",174,Bubblewrap dispenser (Black) 1.5m,NULL,14,7,Each,1,7,110,770,8879
+7,"Litware, Inc.",196,Black and orange handle with care despatch tape  48mmx100m,NULL,14,7,Each,1,16,48,768,654741
+4,"Fabrikam, Inc.",94,"""The Gu"" red shirt XML tag t-shirt (Black) L",NULL,7,7,Carton,1,9,84,756,157255
+7,"Litware, Inc.",157,10 mm Double sided bubble wrap 20m,NULL,14,7,Each,1,5,140,700,46925
+4,"Fabrikam, Inc.",76,"""The Gu"" red shirt XML tag t-shirt (White) 3XS",NULL,7,7,Carton,1,8,84,672,129929
+7,"Litware, Inc.",214,Air cushion film 200mmx200mm 325m,NULL,14,7,Each,1,11,54,594,16642
+4,"Fabrikam, Inc.",81,"""The Gu"" red shirt XML tag t-shirt (White) L",NULL,7,7,Carton,1,7,84,588,106773
+7,"Litware, Inc.",189,Clear packaging tape 48mmx75m,NULL,14,7,Each,2,13,44.2,574.6,324375
+4,"Fabrikam, Inc.",101,"""The Gu"" red shirt XML tag t-shirt (Black) 7XL",NULL,7,7,Carton,1,5,102,510,51036
+4,"Fabrikam, Inc.",92,"""The Gu"" red shirt XML tag t-shirt (Black) S",NULL,7,7,Carton,1,6,84,504,82253
+4,"Fabrikam, Inc.",89,"""The Gu"" red shirt XML tag t-shirt (Black) 3XS",NULL,7,7,Carton,1,6,84,504,81703
+4,"Fabrikam, Inc.",90,"""The Gu"" red shirt XML tag t-shirt (Black) XXS",NULL,7,7,Carton,1,6,84,504,75663
+4,"Fabrikam, Inc.",91,"""The Gu"" red shirt XML tag t-shirt (Black) XS",NULL,7,7,Carton,1,6,84,504,76373
+4,"Fabrikam, Inc.",85,"""The Gu"" red shirt XML tag t-shirt (White) 4XL",NULL,7,7,Carton,1,5,96,480,56210
+4,"Fabrikam, Inc.",87,"""The Gu"" red shirt XML tag t-shirt (White) 6XL",NULL,7,7,Carton,1,5,96,480,53392
+4,"Fabrikam, Inc.",140,Furry animal socks (Pink) L,NULL,12,10,Packet,1,26,18,468,570360
+7,"Litware, Inc.",213,Air cushion film 200mmx100mm 325m,NULL,14,7,Each,1,13,35,455,20946
+7,"Litware, Inc.",185,Shipping carton (Brown) 356x356x279mm,NULL,14,7,Each,1,17,26.25,446.25,723037
+7,"Litware, Inc.",211,Small 9mm replacement blades 9mm,NULL,14,7,Each,1,16,26,416,273217
+4,"Fabrikam, Inc.",138,Furry animal socks (Pink) S,NULL,12,10,Packet,1,23,18,414,501745
+7,"Litware, Inc.",159,20 mm Double sided bubble wrap 10m,NULL,14,7,Each,1,5,80,400,48746
+7,"Litware, Inc.",200,Black and yellow heavy despatch tape 48mmx100m,NULL,14,7,Each,2,6,57.6,345.6,56445
+4,"Fabrikam, Inc.",79,"""The Gu"" red shirt XML tag t-shirt (White) S",NULL,7,7,Carton,1,4,84,336,24895
+7,"Litware, Inc.",194,Black and orange glass with care despatch tape  48mmx100m,NULL,14,7,Each,1,7,48,336,204993
+7,"Litware, Inc.",197,Black and orange this way up despatch tape 48mmx75m,NULL,14,7,Each,1,8,40.8,326.4,263108
+7,"Litware, Inc.",212,Large  replacement blades 18mm,NULL,14,7,Each,1,15,20.5,307.5,248979
+7,"Litware, Inc.",206,Permanent marker black 5mm nib (Black) 5mm,NULL,14,7,Each,1,15,20.4,306,306414
+4,"Fabrikam, Inc.",109,Superhero action jacket (Blue) XS,NULL,12,7,Each,1,16,19,304,27052
+7,"Litware, Inc.",186,Shipping carton (Brown) 457x457x457mm,NULL,14,7,Each,1,11,27.5,302.5,422709
+7,"Litware, Inc.",216,Void fill 100 L bag (White) 100L,NULL,14,7,Each,1,5,60,300,47902
+4,"Fabrikam, Inc.",84,"""The Gu"" red shirt XML tag t-shirt (White) 3XL",NULL,7,7,Carton,1,3,96,288,5439
+4,"Fabrikam, Inc.",141,Furry animal socks (Pink) XL,NULL,12,10,Packet,1,16,18,288,328315
+4,"Fabrikam, Inc.",120,Dinosaur battery-powered slippers (Green) L,NULL,12,7,Each,1,36,8,288,68104
+4,"Fabrikam, Inc.",128,Plush shark slippers (Gray) L,NULL,12,7,Each,1,34,8,272,64026
+4,"Fabrikam, Inc.",82,"""The Gu"" red shirt XML tag t-shirt (White) XL",NULL,7,7,Carton,1,3,90,270,6706
+7,"Litware, Inc.",207,Permanent marker blue 5mm nib (Blue) 5mm,NULL,14,7,Each,1,13,20.4,265.2,250156
+7,"Litware, Inc.",208,Permanent marker red 5mm nib (Red) 5mm,NULL,14,7,Each,1,13,20.4,265.2,251435
+4,"Fabrikam, Inc.",115,Superhero action jacket (Blue) 3XL,NULL,12,7,Each,1,11,24,264,16909
+7,"Litware, Inc.",187,Express post box 5kg (White) 350x280x130mm,NULL,14,7,Each,1,23,11.25,258.75,1034169
+4,"Fabrikam, Inc.",130,Furry gorilla with big eyes slippers (Black) S,NULL,12,7,Each,1,32,8,256,60311
+4,"Fabrikam, Inc.",133,Furry gorilla with big eyes slippers (Black) XL,NULL,12,7,Each,1,30,8.5,255,56220
+4,"Fabrikam, Inc.",118,Dinosaur battery-powered slippers (Green) S,NULL,12,7,Each,1,31,8,248,58218
+7,"Litware, Inc.",153,Small sized bubblewrap roll 10m,NULL,14,7,Each,1,11,22,242,168635
+4,"Fabrikam, Inc.",117,Superhero action jacket (Blue) 5XL,NULL,12,7,Each,1,10,24,240,14824
+4,"Fabrikam, Inc.",105,Alien officer hoodie (Black) 4XL,NULL,12,7,Each,1,14,17,238,23213
+7,"Litware, Inc.",177,Shipping carton (Brown) 413x285x187mm,NULL,14,7,Each,2,17,13.75,233.75,58292
+7,"Litware, Inc.",201,Red and white urgent despatch tape 48mmx75m,NULL,14,7,Each,1,6,38.4,230.4,153241
+4,"Fabrikam, Inc.",129,Plush shark slippers (Gray) XL,NULL,12,7,Each,1,27,8.5,229.5,49855
+4,"Fabrikam, Inc.",110,Superhero action jacket (Blue) S,NULL,12,7,Each,1,12,19,228,19426
+5,Graphic Design Institute,54,IT joke mug - that behavior is by design (White),NULL,12,7,Each,1,49,4.5,220.5,95786
+4,"Fabrikam, Inc.",119,Dinosaur battery-powered slippers (Green) M,NULL,12,7,Each,1,27,8,216,49638
+4,"Fabrikam, Inc.",137,Animal with big feet slippers (Brown) XL,NULL,12,7,Each,1,25,8.5,212.5,45624
+5,Graphic Design Institute,18,DBA joke mug - daaaaaa-ta (White),NULL,12,7,Each,1,46,4.5,207,89207
+4,"Fabrikam, Inc.",123,Ogre battery-powered slippers (Green) M,NULL,12,7,Each,1,25,8,200,45839
+5,Graphic Design Institute,46,Developer joke mug - a foo walks into a bar (White),NULL,12,7,Each,1,44,4.5,198,85243
+7,"Litware, Inc.",202,Red and white urgent  heavy despatch tape  48mmx100m,NULL,14,7,Each,1,4,49.2,196.8,68654
+5,Graphic Design Institute,40,"Developer joke mug - (hip, hip, array) (White)",NULL,12,7,Each,1,43,4.5,193.5,82969
+5,Graphic Design Institute,55,IT joke mug - that behavior is by design (Black),NULL,12,7,Each,1,43,4.5,193.5,83130
+4,"Fabrikam, Inc.",132,Furry gorilla with big eyes slippers (Black) L,NULL,12,7,Each,1,24,8,192,43436
+4,"Fabrikam, Inc.",126,Plush shark slippers (Gray) S,NULL,12,7,Each,1,24,8,192,44071
+4,"Fabrikam, Inc.",116,Superhero action jacket (Blue) 4XL,NULL,12,7,Each,1,8,24,192,10988
+5,Graphic Design Institute,50,Developer joke mug - old C developers never die (White),NULL,12,7,Each,1,42,4.5,189,81085
+5,Graphic Design Institute,29,DBA joke mug - two types of DBAs (Black),NULL,12,7,Each,1,42,4.5,189,80978
+5,Graphic Design Institute,31,Developer joke mug - Oct 31 = Dec 25 (Black),NULL,12,7,Each,1,42,4.5,189,79604
+7,"Litware, Inc.",198,Black and orange this way up despatch tape  48mmx100m,NULL,14,7,Each,1,4,46.8,187.2,54862
+4,"Fabrikam, Inc.",121,Dinosaur battery-powered slippers (Green) XL,NULL,12,7,Each,1,22,8.5,187,39597
+4,"Fabrikam, Inc.",125,Ogre battery-powered slippers (Green) XL,NULL,12,7,Each,1,22,8.5,187,39732
+5,Graphic Design Institute,41,"Developer joke mug - (hip, hip, array) (Black)",NULL,12,7,Each,1,41,4.5,184.5,79138
+4,"Fabrikam, Inc.",127,Plush shark slippers (Gray) M,NULL,12,7,Each,1,23,8,184,41393
+4,"Fabrikam, Inc.",134,Animal with big feet slippers (Brown) S,NULL,12,7,Each,1,23,8,184,41994
+4,"Fabrikam, Inc.",124,Ogre battery-powered slippers (Green) L,NULL,12,7,Each,1,23,8,184,40953
+5,Graphic Design Institute,44,Developer joke mug - there are 10 types of people in the world (White),NULL,12,7,Each,1,40,4.5,180,76861
+5,Graphic Design Institute,35,Developer joke mug - fun was unexpected at this time (Black),NULL,12,7,Each,1,40,4.5,180,75803
+4,"Fabrikam, Inc.",136,Animal with big feet slippers (Brown) L,NULL,12,7,Each,1,22,8,176,39284
+4,"Fabrikam, Inc.",112,Superhero action jacket (Blue) L,NULL,12,7,Each,1,8,22,176,11076
+4,"Fabrikam, Inc.",122,Ogre battery-powered slippers (Green) S,NULL,12,7,Each,1,22,8,176,38905
+5,Graphic Design Institute,22,DBA joke mug - it depends (White),NULL,12,7,Each,1,38,4.5,171,72747
+5,Graphic Design Institute,57,IT joke mug - hardware: part of the computer that can be kicked (Black),NULL,12,7,Each,1,38,4.5,171,72743
+4,"Fabrikam, Inc.",104,Alien officer hoodie (Black) 3XL,NULL,12,7,Each,1,10,17,170,14596
+4,"Fabrikam, Inc.",131,Furry gorilla with big eyes slippers (Black) M,NULL,12,7,Each,1,21,8,168,37392
+4,"Fabrikam, Inc.",135,Animal with big feet slippers (Brown) M,NULL,12,7,Each,1,21,8,168,37481
+7,"Litware, Inc.",180,Shipping carton (Brown) 279x254x217mm,NULL,14,7,Each,2,11,15,165,318572
+5,Graphic Design Institute,21,DBA joke mug - you might be a DBA if (Black),NULL,12,7,Each,1,36,4.5,162,68683
+5,Graphic Design Institute,19,DBA joke mug - daaaaaa-ta (Black),NULL,12,7,Each,1,36,4.5,162,68800
+5,Graphic Design Institute,34,Developer joke mug - fun was unexpected at this time (White),NULL,12,7,Each,1,35,4.5,157.5,65583
+5,Graphic Design Institute,20,DBA joke mug - you might be a DBA if (White),NULL,12,7,Each,1,35,4.5,157.5,66722
+5,Graphic Design Institute,39,Developer joke mug - inheritance is the OO way to become wealthy (Black),NULL,12,7,Each,1,35,4.5,157.5,66353
+5,Graphic Design Institute,48,Developer joke mug - this code was generated by a tool (White),NULL,12,7,Each,1,35,4.5,157.5,65779
+4,"Fabrikam, Inc.",111,Superhero action jacket (Blue) M,NULL,12,7,Each,1,7,22,154,8498
+4,"Fabrikam, Inc.",103,Alien officer hoodie (Black) XXL,NULL,12,7,Each,1,9,17,153,13020
+4,"Fabrikam, Inc.",107,Superhero action jacket (Blue) 3XS,NULL,12,7,Each,1,8,19,152,10843
+5,Graphic Design Institute,26,DBA joke mug - SELECT caffeine FROM mug (White),NULL,12,7,Each,1,33,4.5,148.5,61071
+5,Graphic Design Institute,37,Developer joke mug - when your hammer is C++ (Black),NULL,12,7,Each,1,33,4.5,148.5,61318
+5,Graphic Design Institute,42,Developer joke mug - understanding recursion requires understanding recursion (White),NULL,12,7,Each,1,33,4.5,148.5,61075
+5,Graphic Design Institute,17,DBA joke mug - mind if I join you? (Black),NULL,12,7,Each,1,33,4.5,148.5,62428
+4,"Fabrikam, Inc.",139,Furry animal socks (Pink) M,NULL,12,10,Packet,1,8,18,144,126418
+5,Graphic Design Institute,43,Developer joke mug - understanding recursion requires understanding recursion (Black),NULL,12,7,Each,1,32,4.5,144,59174
+5,Graphic Design Institute,56,IT joke mug - hardware: part of the computer that can be kicked (White),NULL,12,7,Each,1,32,4.5,144,59403
+7,"Litware, Inc.",190,Clear packaging tape 48mmx100m,NULL,14,7,Each,1,4,36,144,50246
+5,Graphic Design Institute,33,Developer joke mug - that's a hardware problem (Black),NULL,12,7,Each,1,32,4.5,144,60005
+5,Graphic Design Institute,38,Developer joke mug - inheritance is the OO way to become wealthy (White),NULL,12,7,Each,1,31,4.5,139.5,58431
+5,Graphic Design Institute,47,Developer joke mug - a foo walks into a bar (Black),NULL,12,7,Each,1,31,4.5,139.5,57652
+5,Graphic Design Institute,53,IT joke mug - keyboard not found … press F1 to continue (Black),NULL,12,7,Each,1,31,4.5,139.5,58061
+5,Graphic Design Institute,24,DBA joke mug - I will get you in order (White),NULL,12,7,Each,1,31,4.5,139.5,57083
+7,"Litware, Inc.",178,Shipping carton (Brown) 500x310x310mm,NULL,14,7,Each,1,5,27.5,137.5,117043
+4,"Fabrikam, Inc.",106,Alien officer hoodie (Black) 5XL,NULL,12,7,Each,1,8,17,136,10874
+7,"Litware, Inc.",182,Shipping carton (Brown) 457x279x279mm,NULL,14,7,Each,1,9,15,135,326007
+5,Graphic Design Institute,23,DBA joke mug - it depends (Black),NULL,12,7,Each,1,30,4.5,135,56283
+4,"Fabrikam, Inc.",114,Superhero action jacket (Blue) XXL,NULL,12,7,Each,1,6,22,132,6971
+4,"Fabrikam, Inc.",113,Superhero action jacket (Blue) XL,NULL,12,7,Each,1,6,22,132,7057
+5,Graphic Design Institute,28,DBA joke mug - two types of DBAs (White),NULL,12,7,Each,1,29,4.5,130.5,53851
+5,Graphic Design Institute,45,Developer joke mug - there are 10 types of people in the world (Black),NULL,12,7,Each,1,29,4.5,130.5,54430
+5,Graphic Design Institute,52,IT joke mug - keyboard not found … press F1 to continue (White),NULL,12,7,Each,1,28,4.5,126,51289
+5,Graphic Design Institute,49,Developer joke mug - this code was generated by a tool (Black),NULL,12,7,Each,1,28,4.5,126,51545
+5,Graphic Design Institute,16,DBA joke mug - mind if I join you? (White),NULL,12,7,Each,1,28,4.5,126,51836
+7,"Litware, Inc.",195,Black and orange handle with care despatch tape  48mmx75m,NULL,14,7,Each,1,4,31.2,124.8,59592
+5,Graphic Design Institute,30,Developer joke mug - Oct 31 = Dec 25 (White),NULL,12,7,Each,1,27,4.5,121.5,49248
+5,Graphic Design Institute,36,Developer joke mug - when your hammer is C++ (White),NULL,12,7,Each,1,27,4.5,121.5,49459
+7,"Litware, Inc.",183,Shipping carton (Brown) 480x270x320mm,NULL,14,7,Each,1,4,30,120,62224
+5,Graphic Design Institute,25,DBA joke mug - I will get you in order (Black),NULL,12,7,Each,1,26,4.5,117,47106
+5,Graphic Design Institute,27,DBA joke mug - SELECT caffeine FROM mug (Black),NULL,12,7,Each,1,26,4.5,117,47747
+5,Graphic Design Institute,51,Developer joke mug - old C developers never die (Black),NULL,12,7,Each,1,26,4.5,117,47656
+5,Graphic Design Institute,32,Developer joke mug - that's a hardware problem (White),NULL,12,7,Each,1,26,4.5,117,47512
+2,"Contoso, Ltd.",151,Pack of 12 action figures (male),NULL,2,9,Packet,1,21,5.5,115.5,37881
+4,"Fabrikam, Inc.",108,Superhero action jacket (Blue) XXS,NULL,12,7,Each,1,6,19,114,6342
+4,"Fabrikam, Inc.",102,Alien officer hoodie (Black) XL,NULL,12,7,Each,1,6,17,102,6702
+2,"Contoso, Ltd.",152,Pack of 12 action figures (female),NULL,2,9,Packet,1,18,5.5,99,31300
+2,"Contoso, Ltd.",150,Pack of 12 action figures (variety),NULL,2,9,Packet,1,18,5.5,99,31743
+7,"Litware, Inc.",179,Shipping carton (Brown) 229x229x229mm,NULL,14,7,Each,1,7,13.75,96.25,214030
+7,"Litware, Inc.",210,Packing knife with metal insert blade (Yellow) 18mm,NULL,14,7,Each,1,15,6,90,128179
+7,"Litware, Inc.",188,3 kg Courier post bag (White) 300x190x95mm,NULL,14,7,Each,1,7,9,63,208903
+7,"Litware, Inc.",209,Packing knife with metal insert blade (Yellow) 9mm,NULL,14,7,Each,1,13,4.5,58.5,104161
+7,"Litware, Inc.",181,Shipping carton (Brown) 356x229x229mm,NULL,14,7,Each,1,4,14,56,64432
